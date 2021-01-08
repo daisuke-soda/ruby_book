@@ -1,3 +1,4 @@
+#テストコード
 require 'minitest/autorun'
 require './lib/gate'
 require './lib/ticket'
