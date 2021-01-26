@@ -1,2 +1,2 @@
 # ruby_book
-ruby入門
+ruby入門 例題集
